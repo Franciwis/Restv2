@@ -9,7 +9,7 @@ import { Menu } from "../components/CardMenu"
 
  
 
-  //referencia a la coleccion de tragos
+ //hace referencia a la coleccion de tragos
   const collectionRef = collection(db, "cocteleria");
   const [cocteleria, setCocteleria] = useState([]);
 
