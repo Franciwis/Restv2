@@ -36,7 +36,7 @@ import { collection, addDoc, getDocs } from "firebase/firestore";
 
  */}
 
-
+///pagina en construccion
  
 export const Reservas = () => {
   return (
