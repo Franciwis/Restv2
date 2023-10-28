@@ -7,7 +7,7 @@ export const Carrusel = () => {
             <Carousel.Item className='micarrusel'>
                 <img
                     className="d-block w-100 "
-                    src="../../public/restaurantes-de-lujo-ibiza.jpeg"
+                    src="./restaurantes-de-lujo-ibiza.jpeg"
                     alt="First slide"
                 />
                 <Carousel.Caption>
@@ -18,7 +18,7 @@ export const Carrusel = () => {
             <Carousel.Item className='micarrusel'>
                 <img
                     className="d-block w-100"
-                    src="../../public/mariscada-recetas-chef-oropeza.jpg"
+                    src="./mariscada-recetas-chef-oropeza.jpg"
                     alt="Second slide"
                 />
                 <Carousel.Caption>
@@ -29,7 +29,7 @@ export const Carrusel = () => {
             <Carousel.Item className='micarrusel'>
                 <img
                     className="d-block w-100"
-                    src="../../public/foto-barra-bar-el-origen-1.avif"
+                    src="./foto-barra-bar-el-origen-1.avif"
                     alt="Third slide"
                 />
                 <Carousel.Caption>

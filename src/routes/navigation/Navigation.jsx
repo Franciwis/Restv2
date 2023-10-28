@@ -8,7 +8,7 @@ const Navigation = () => {
             <div>
                 <Navbar bg='dark' data-bs-theme="dark" className="me-auto" expand="lg">
                     <Container>
-                        <Navbar.Brand  href="/"><img src="../../../public/logo-el-origen-restobar.jpg" /> </Navbar.Brand>
+                        <Navbar.Brand  href="/"><img src="./logo-el-origen-restobar.jpg" /> </Navbar.Brand>
                         <Navbar.Toggle aria-controls="basic-navbar-nav" />
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="me-auto">
