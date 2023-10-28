@@ -4,7 +4,7 @@ import { Carta } from "./Carta"
 // import { Menu }  from "./Menu"
 import { Ubicacion } from "./Ubicacion"
 import { Contacto } from "./Contacto"
-//import Reservas from "../components/Reservas"
+import { Reservas } from "./Reservas"
 
 import NotFoundPage from "./NotFoundPage"
 import { Historia } from "./Historia"
@@ -22,7 +22,7 @@ import { Layout } from "../components/Layout/Layout"
           <Route path="/carta" element={<Carta />} />
           <Route path="/ubicacion" element={<Ubicacion />} />
           <Route path="/contacto" element={<Contacto />} />
-    {/*   <Route path="/reservas" element={<Reservas />} /> */}
+          <Route path="/reservas" element={<Reservas />} />
           <Route path="*" element={<NotFoundPage />} />
         </Route>
 

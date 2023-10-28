@@ -5,34 +5,34 @@
             "nombre": "Ceviche El Origen",
             "precio": "$12.500",
             "descripcion":"Pez de roca acompañado de camarón nacional aliñados con limón fresco y aceite de oliva, cebolla morada, cilantro y papaya.",
-            "imagen": "../public/ceviche-mixto-peruano.jpg"
+            "imagen": "./ceviche-mixto-peruano.jpg"
         },
         {
             "SKU":"p2",
             "nombre": "Tártaro de Dorado",
             "precio": "$13.000",
             "descripcion":"Filetes de dorado aliñados con salsa de ostras, acete de oliva y salsa de ají del Valle del Huasco, pepinillos, cebolla y ají verde encurtido.",
-            "imagen": "../public/tartaro de pez.jpg"
+            "imagen": "./tartaro de pez.jpg"
         },
         {
             "SKU":"p3",
             "nombre": "Carpaccio del Huasco",
             "precio": "$13.000",
             "descripcion":"Finas láminas de pez de roca bañado con salsa de oliva del valle del Huasco y queso de cabra.",
-            "imagen": "../public/carpaccio.jpg"
+            "imagen": "./carpaccio.jpg"
         },
         {
             "SKU":"p4",
             "nombre": "Coctel El Mecanizado",
             "precio": "$7.000",
             "descripcion":"Vermut Extra Dry fusionado con licor de maracuyá, jugo de limón fresco y un toque de albahaca",
-            "imagen": "../public/foto-cocktail-bar-el-origen-2.avif"
+            "imagen": "./foto-cocktail-bar-el-origen-2.avif"
         }, {
             "SKU":"p5",
             "nombre": "Coctel Sour Patrimonial",
             "precio": "$7.000",
             "descripcion":"Una exquisita combinación de Pisco Bou Barrueta, jugo de limón y licor de naranja",
-            "imagen": "../public//foto-cocktail-bar-el-origen-1.avif"
+            "imagen": ".//foto-cocktail-bar-el-origen-1.avif"
         }
 
 

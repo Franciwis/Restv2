@@ -35,3 +35,17 @@ import { collection, addDoc, getDocs } from "firebase/firestore";
 }
 
  */}
+
+
+ 
+export const Reservas = () => {
+  return (
+    <div>
+     
+        
+        
+     
+      <img src="./SITIO-EN-CONSTRUCCION.jpg" alt="El Origen"/>
+    </div>
+  )
+};

@@ -6,7 +6,7 @@ export const BlogInicio = () => {
   return (
     <CardGroup className="justify-content-center ms-2">
       <Card className="card text-white bg-secondary ms-3">
-        <Card.Img variant="top" src="../../public/comunidad-restaurant-el-origen-3.avif" />
+        <Card.Img variant="top" src="./comunidad-restaurant-el-origen-3.avif" />
         <Card.Body>
           <Card.Title className='text-center'>Quiénes Somos</Card.Title>
           <Card.Text className='text-center'>
@@ -21,7 +21,7 @@ export const BlogInicio = () => {
       <br />
     
       <Card className="card text-white bg-secondary ms-3">
-        <Card.Img variant="top" src="../../public/recetas-para-el-verano.jpg" />
+        <Card.Img variant="top" src="./recetas-para-el-verano.jpg" />
         <Card.Body>
           <Card.Title className='text-center'>Encuentra tu lugar aquí</Card.Title>
           <Card.Text className='text-center'>
@@ -48,7 +48,7 @@ function Blog() {
       <p className='text-white ms-3'>
         El Mejor Rincón Gastronómico a Orillas del Mar, Nuestra pasión y compromiso nos han valido el reconocimiento de críticos culinarios y la lealtad de nuestros comensales. Hemos sido galardonados con múltiples premios por la calidad de nuestra comida y nuestro servicio excepcional.</p>
 
-      <Card.Img style={{ width: "600px"}} className="bg-secondary ms-4" src="../../public/Captura excelencia.JPG" alt="EL ORIGEN" />
+      <Card.Img style={{ width: "600px"}} className="bg-secondary ms-4" src="./Captura excelencia.JPG" alt="EL ORIGEN" />
       <br />
 
     </Card>

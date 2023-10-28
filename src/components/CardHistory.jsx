@@ -5,7 +5,7 @@ export const CardHistory = () => {
   return (
     <CardGroup className="justify-content-center ms-2">
     <Card className="card text-white bg-secondary ms-3">
-      <Card.Img variant="top" src="../../public/vistamar.jpg" />
+      <Card.Img variant="top" src="./vistamar.jpg" />
       <Card.Body>
         <Card.Title>Ubicación</Card.Title>
         <Card.Text>
@@ -15,7 +15,7 @@ export const CardHistory = () => {
       
     </Card>
     <Card className="card text-white bg-secondary ms-3">
-      <Card.Img variant="top" src="../../public/plato-de-mariscos-1595505096.jpg" />
+      <Card.Img variant="top" src="./plato-de-mariscos-1595505096.jpg" />
       <Card.Body>
         <Card.Title>Carta</Card.Title>
         <Card.Text>
@@ -25,7 +25,7 @@ export const CardHistory = () => {
       
     </Card>
     <Card className="card text-white bg-secondary ms-3">
-      <Card.Img variant="top" src="../../public/clientes.jpg" />
+      <Card.Img variant="top" src="./clientes.jpg" />
       <Card.Body>
         <Card.Title>Clientes</Card.Title>
         <Card.Text>

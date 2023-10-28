@@ -16,7 +16,7 @@ export const Ubicacion = () => {
         de Lunes a Domingo de 12:00 pm a 02:00 am
       </p>
       
-      <img src="../../public/mapaRestaurant.JPG" alt="El Origen"/>
+      <img src="./mapaRestaurant.JPG" alt="El Origen"/>
     </div>
   )
 }

@@ -12,7 +12,7 @@ export const Historia = () => {
             <br />
       <Card className=" text-white">
         <Card.Img
-          src="../../public/cq5dam.thumbnail.cropped.1500.844.jpeg"
+          src="./cq5dam.thumbnail.cropped.1500.844.jpeg"
           height="500px"
           alt="Card image"
         />
